@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD3cGdOwupeqcWyWh_PNqZbg1EPEiaqOT0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>723797545175</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.projectEscapism</string>
+	<key>PROJECT_ID</key>
+	<string>login-aa3dc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-aa3dc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:723797545175:ios:47dd5a7629362af92b6092</string>
+	<key>DATABASE_URL</key>
+	<string>https://login-aa3dc-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
